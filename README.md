@@ -10,4 +10,4 @@ Index:
 3. <a href="https://github.com/sowrami2/Adventure-Works-Sales-Analysis/blob/main/README.md">Adventure Works Sales Analysis
 4. <a href="https://github.com/sowrami2/Bus-Transportation-Data-Analysis/blob/main/README.md">Bus Transportation Data Analysis
 
-[Imgur](https://i.imgur.com/wDIassJ.gifv)
+![Imgur](https://i.imgur.com/wDIassJ.gifv)
