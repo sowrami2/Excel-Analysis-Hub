@@ -9,6 +9,7 @@ In the world of data, insights are the new currency. This repository is a testam
 2. [Coffee Shop Sales Analysis](https://github.com/sowrami2/Coffee-Shop-Sales-Analysis/blob/main/README.md)
 3. [Adventure Works Sales Analysis](https://github.com/sowrami2/Adventure-Works-Sales-Analysis/blob/main/README.md)
 4. [Bus Transportation Data Analysis](https://github.com/sowrami2/Bus-Transportation-Data-Analysis/blob/main/README.md)
+5. [Kix Business Sales Analysis](https://github.com/sowrami2/Kix-Business-Sales-Analysis/blob/main/README.md)
 
 <br>
 
